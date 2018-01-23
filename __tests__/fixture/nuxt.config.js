@@ -10,6 +10,7 @@ module.exports = {
     secretKey: 'secretKey',
     oauthHost: 'https://google.com',
     oauthClientID: 'oauthClientID',
-    oauthClientSecret: 'oauthClientSecret'
+    oauthClientSecret: 'oauthClientSecret',
+    oauthScopes: 'oauthScopes'
   }
 }
